@@ -47,7 +47,7 @@ git add *
 git status
 git commit -m "Iformação para documentar"
 git remote add origin link do diretorio no git
-git push origin master
+git push origin master se o diretorio está criando e somente este comando
 
 
 
