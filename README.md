@@ -10,7 +10,7 @@ Criado para acompanhar o avanço e manter as atividades criadas durante do BootC
 
 [Downloads GitHub](https://git-scm.com/downloads)
 
-[Site GitHub]([GitHub: Where the world builds software · GitHub](https://github.com/))
+[Site GitHub](https://github.com/)
 
 [Download Editor de Texto Markdown Typora](https://typora.io/)
 
