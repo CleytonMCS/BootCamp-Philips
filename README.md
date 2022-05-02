@@ -22,7 +22,7 @@ Criado para acompanhar o avanço e manter as atividades criadas durante do BootC
 
 - Editor de Texto Markdown Typora solicita exige licença ou é utilizado como trial durante 15 dias.
 
-- Editor de Texto Notepad++ e gratuito, no entanto deve ser baixando o plugin para edição Markdowne Visualição inline.
+- Editor de Texto Notepad++ e gratuito, no entanto deve ser baixando o plugin para edição Markdown Visualição inline.
 
 - Lista de  [emoticons](https://gist.github.com/rxaviers/7360908)
 
@@ -92,7 +92,7 @@ Criado para acompanhar o avanço e manter as atividades criadas durante do BootC
 - [x] Pensamento Computacional
 - [x] Introdução ao Git e ao GitHub
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-- [ ] Introdução a Criação de Websites com HTML5 e CSS3
+- [X] Introdução a Criação de Websites com HTML5 e CSS3
 - [ ] Construindo Páginas Para Internet Com Bootstrap
 - [ ] Posicionando Elementos com Flexbox em CSS
 - [ ] Sintaxe Básica em JavaScript
