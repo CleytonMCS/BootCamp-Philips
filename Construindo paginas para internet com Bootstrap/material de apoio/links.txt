@@ -3,3 +3,6 @@ https://getbootstrap.com/docs/5.1/getting-started/download/
 
 Download Visual Studio Code:
 https://code.visualstudio.com/
+
+Imagens gratuitas:
+https://www.pexels.com/pt-br/
