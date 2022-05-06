@@ -29,4 +29,4 @@
 Conjunto de estilos para classes e componentes.
 Se trata de um framework para desenvolvimento de sites responsiveis (sites que se ajustam aos dispositivos e redimensionamento do navegadro).
 Possui uma vasta biblioteca de componentes que facilita e agiliza o desenvolvimento de páginas web.
-É um dos frameworks mais conhecidos e usados para desenvolvimento Front Ende.
+É um dos frameworks mais conhecidos e usados para desenvolvimento Front End.
