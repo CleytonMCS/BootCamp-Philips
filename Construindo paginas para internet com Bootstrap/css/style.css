@@ -3,14 +3,25 @@ body{
 }
 
 .navbar{
-    background-color: aquamarine;
+    background-color: #C4DDFF;
 }
 
 .quem-somos{
-    background-color: burlywood;
+    background-color: #7FB5FF;
     color: rebeccapurple;
 }
 
 .margin{
+    padding-top: 10px;
     padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #001D6E;
+    color: red;
+}
+
+.bg-footer{
+    background-color: #FEE2C5;
+    color: yellowgreen;
 }
