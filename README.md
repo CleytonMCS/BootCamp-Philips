@@ -93,7 +93,7 @@ Criado para acompanhar o avanço e manter as atividades criadas durante do BootC
 - [x] Introdução ao Git e ao GitHub
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [X] Introdução a Criação de Websites com HTML5 e CSS3
-- [ ] Construindo Páginas Para Internet Com Bootstrap
+- [X] Construindo Páginas Para Internet Com Bootstrap
 - [ ] Posicionando Elementos com Flexbox em CSS
 - [ ] Sintaxe Básica em JavaScript
 - [ ] Sintaxe e Operadores
