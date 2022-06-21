@@ -10,20 +10,83 @@
             display: flex;
             max-width: 350px;
             border: 1px solid red;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
+        }
+
+        .align-container{
+            align-items: center;
         }
 
         .item{
-            flex: 1;
-            background: blue;
+            background-color: blue;
             color: greenyellow;
             text-align: center;
             font-size: 30px;
             margin: 12px;
         }
+
+        .center{
+            align-self: center;
+        }
+
+        .start{
+            align-self: flex-start;
+        }
+
+        .end{
+            align-self: flex-end;
+        }
+
+        .baseline{
+            align-self: baseline;
+        }
+
+        .stretch{
+            align-self: stretch;
+        }
+
+        .auto{
+            align-self: auto;
+        }
+
+        .direction{
+            flex-direction: column;
+        }
     </style>
 </head>
 <body>
+    <h1>Row</h1>
+    <section class="flex-container align-container">
+        <div class="item auto">FFFFF</div>
+        <div class="item auto">555</div>
+        <div class="item auto">Conteúdo diferenciado</div>
+        <div class="item auto">TT</div>
+        <div class="item auto">789</div>
+    </section>
+
+    <section class="flex-container">
+        <div class="item end">FFFFF</div>
+        <div class="item center">555</div>
+        <div class="item stretch">Conteúdo diferenciado</div>
+        <div class="item baseline">TT</div>
+        <div class="item start">789</div>
+    </section>
     
+    <h1>Column</h1>
+    <section class="flex-container align-container direction">
+        <div class="item auto">FFFFF</div>
+        <div class="item auto">555</div>
+        <div class="item auto">Conteúdo diferenciado</div>
+        <div class="item auto">TT</div>
+        <div class="item auto">789</div>
+    </section>
+
+    <section class="flex-container direction">
+        <div class="item end">FFFFF</div>
+        <div class="item center">555</div>
+        <div class="item stretch">Conteúdo diferenciado</div>
+        <div class="item baseline">TT</div>
+        <div class="item start">789</div>
+    </section>
 </body>
 </html>
